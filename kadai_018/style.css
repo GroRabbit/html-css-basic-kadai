@@ -1,7 +1,7 @@
 #top{
   width: 800px;
   background-color: #dcc9f4;
-  margin: auto;
+  height: auto;
 }
 
 .top-child p{
@@ -9,3 +9,5 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+position: absolute;
